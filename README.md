@@ -29,7 +29,7 @@ Como desarrolladora FullStack, gracias a Henry cuento con una variedad de tecnol
    - Enlace al repositorio: [Animaladas G03](https://github.com/gabrieeelsp/animaladas-g03)
 
 ## Contacto
-¡Me encantaría conectar contigo! Puedes encontrarme en las siguientes plataformas:
+Pueden encontrarme en las siguientes plataformas:
 - LinkedIn: [Palmieri Mayra](https://www.linkedin.com/in/mayra-anah%C3%AD-palmieri)
 - Correo electrónico: (palmierimayra@gmail.com)
 
